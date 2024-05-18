@@ -6,6 +6,15 @@ nav_order: 2
 
 ---
 
+<details open markdown="block">
+  <summary>
+    Table of contents
+  </summary>
+  {: .text-delta }
+1. TOC
+{:toc}
+</details>
+
 > Reach out to DLF staff and former leaders to find out as much information \[as you can\]. They are your best resource when first getting started.
 > 
 > — Cristela Garcia-Spitz

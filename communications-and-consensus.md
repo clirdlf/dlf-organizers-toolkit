@@ -5,6 +5,15 @@ nav_enabled: true
 nav_order: 6
 ---
 
+<details open markdown="block">
+  <summary>
+    Table of contents
+  </summary>
+  {: .text-delta }
+1. TOC
+{:toc}
+</details>
+
 > DLF groups are loosely organized by design.
 > 
 > Stacie Williams

@@ -5,6 +5,15 @@ nav_enabled: true
 nav_order: 10
 ---
 
+<details open markdown="block">
+  <summary>
+    Table of contents
+  </summary>
+  {: .text-delta }
+1. TOC
+{:toc}
+</details>
+
 > To get the ball rolling, schedule a conference call. Email/listservs are great for some things, but a conference call or face-to-face meeting really gets discussion and action.
 > 
 > Cristela Garcia-Spitz

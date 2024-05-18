@@ -5,6 +5,15 @@ nav_enabled: true
 nav_order: 8
 ---
 
+<details open markdown="block">
+  <summary>
+    Table of contents
+  </summary>
+  {: .text-delta }
+1. TOC
+{:toc}
+</details>
+
 > Ask questions of the group, and generate discussion on “what should we do next?” People want to see progress, and feel like they are making a difference.
 > 
 > Jody DeRidder

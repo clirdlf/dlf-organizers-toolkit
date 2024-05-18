@@ -5,6 +5,15 @@ nav_enabled: true
 nav_order: 9
 ---
 
+<details open markdown="block">
+  <summary>
+    Table of contents
+  </summary>
+  {: .text-delta }
+1. TOC
+{:toc}
+</details>
+
 > Working out practicalities of doing what you love is much more fun together.
 > 
 > Olivia Thompson

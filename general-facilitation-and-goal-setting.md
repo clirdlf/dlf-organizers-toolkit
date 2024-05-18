@@ -5,6 +5,15 @@ nav_enabled: true
 nav_order: 4
 ---
 
+<details open markdown="block">
+  <summary>
+    Table of contents
+  </summary>
+  {: .text-delta }
+1. TOC
+{:toc}
+</details>
+
 > For interactive sessions to be impactful, they need to be well organized—not only with a clear activity in mind—but also with report-outs & follow through.
 > 
 > Cathy Aster

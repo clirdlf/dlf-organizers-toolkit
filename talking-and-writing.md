@@ -5,6 +5,15 @@ nav_enabled: true
 nav_order: 11
 ---
 
+<details open markdown="block">
+  <summary>
+    Table of contents
+  </summary>
+  {: .text-delta }
+1. TOC
+{:toc}
+</details>
+
 > It helps \[motivation\] to keep people focused on generating outcomes that will help them in their careers and get them visibility.
 > 
 > Jody DeRidder

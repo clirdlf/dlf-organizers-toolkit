@@ -5,6 +5,15 @@ nav_enabled: true
 nav_order: 7
 ---
 
+<details open markdown="block">
+  <summary>
+    Table of contents
+  </summary>
+  {: .text-delta }
+1. TOC
+{:toc}
+</details>
+
 Community organizing and group leadership is hard work. You’re at your best when you’re taking time to care for yourself. Please don’t forget to put on your own oxygen mask first!
 
 > Tap into the community. Ask specific individuals for help or suggestions on who else to ask.

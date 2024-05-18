@@ -5,6 +5,15 @@ nav_enabled: true
 nav_order: 5
 ---
 
+<details open markdown="block">
+  <summary>
+    Table of contents
+  </summary>
+  {: .text-delta }
+1. TOC
+{:toc}
+</details>
+
 > I’m grateful to the DLF for taking their mission of inclusion seriously.
 > 
 > Stacie Williams

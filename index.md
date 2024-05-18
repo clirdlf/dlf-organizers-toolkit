@@ -13,6 +13,9 @@ nav_order: 1
 [Mission](#mission){: .btn .btn-primary .fs-5 .mb-4 .mb-md-0 .mr-2 }
 [View it on GitHub][Toolkit repo]{: .btn .fs-5 .mb-4 .mb-md-0 }
 
+1. TOC
+{:toc}
+
 ## Mission
 
 The Digital Library Federation is committed to supporting inclusive, equitable, and highly effective communities of practice. We strive to be a welcoming organization and the focal point for a digital library culture that is actively anti-racist; that values evidence, expertise, and the diversity of human experience; that recognizes the intersectional effects of systemic oppression of all kinds; and that works compassionately across difference toward shared and inspiring goals. We invite everyone who shares our goals to learn more and join us.

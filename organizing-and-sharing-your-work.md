@@ -5,6 +5,15 @@ nav_enabled: true
 nav_order: 12
 ---
 
+<details open markdown="block">
+  <summary>
+    Table of contents
+  </summary>
+  {: .text-delta }
+1. TOC
+{:toc}
+</details>
+
 One of the best ways to broaden your group’s reach is by keeping Team DLF updated on your current activities, projects, and plans. If there is something you want us to promote through DLF’s communication channels, please tag us in social media, [add it](https://www.diglib.org/revitalized-community-calendar-now-online/) to the [DLF Community Calendar](http://digital-conferences-calendar.info/), add it to the agenda of our next quarterly working group leaders call (email us at [info@diglib.org](mailto:info@diglib.org) for the link), or let us know directly—we love to help DLF groups share their work!
 
 In terms of organization, many DLF working groups and committees organize drafts and in-progress materials independently using [GitHub](https://github.com/) and [Google Drive](https://www.google.com/drive/). DLF’s Open Science Framework (OSF) [repositories](https://osf.io/qa8kc/) are good for finished white papers or other grey literature—especially documents for which you would like a DOI. Drop us a line if you’d like access.

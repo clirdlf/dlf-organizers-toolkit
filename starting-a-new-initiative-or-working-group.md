@@ -5,6 +5,15 @@ nav_enabled: true
 nav_order: 3
 ---
 
+<details open markdown="block">
+  <summary>
+    Table of contents
+  </summary>
+  {: .text-delta }
+1. TOC
+{:toc}
+</details>
+
 DLF groups are typically formed by people with good ideas, so there’s no annual timeline or formal approval process for affiliation. Ideas for new working groups develop in a variety of ways. Many groups, like our [Climate Justice Working Group](https://www.diglib.org/groups/climate-justice-working-group/), form out of conversations begun at the DLF Forum. Other groups arise as a continuation of prior work and initiatives begun outside of DLF, like the [Technology Strategy for Archives Working Group](https://www.diglib.org/groups/technology-strategy-for-archives/). Have an idea for a working group, but not sure where to begin? Simply get in touch with us at [info@diglib.org](mailto:info@diglib.org) to discuss the possibilities!
 
 Our working group leaders are self-starters and we encourage them to think creatively about platforms they can use independently to get their work done. The DLF Team works with groups on a case-by-case basis to try to get them the [resources](/dlf-organizers-toolkit/#team-dlf) they need. We also make sure to reserve some space for DLF-affiliated groups at the DLF Forum.
