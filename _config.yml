@@ -1,0 +1,67 @@
+title: DLF Organizers' Toolkit
+description: The Digital Library Federation is committed to supporting inclusive, equitable, and highly effective communities of practice.
+theme: just-the-docs
+repository: clirdlf/organizers-toolkit # for github-metadata
+
+permalink: pretty
+
+url: https://organizers-toolkit.diglib.org
+
+logo: "/assets/images/DLF_logo.png"
+favicon_ico: "/assets/images/dlf-logo-icon.png"
+
+aux_links:
+  Document Repository: https://github.com/clirdlf/organizers-toolkit
+  DLF: https://www.diglib.org/
+  CLIR: https://www.clir.org/\
+  
+color_scheme: dlf
+
+# For copy button on code
+enable_copy_code_button: true
+
+gh_edit_link: true # show or hide edit this page link
+gh_edit_link_text: "Edit this page on GitHub"
+gh_edit_repository: "https://github.com/clirdlf/organizers-toolkit/" # the github URL for your repo
+gh_edit_branch: "main" # the branch that your docs is served from
+# gh_edit_source: docs # the source that your files originate from
+gh_edit_view_mode: "tree" # "tree" or "edit" if you want the user to jump into the editor immediately
+
+# all settings 
+# https://github.com/just-the-docs/just-the-docs/blob/main/_config.yml
+
+compress_html:
+  clippings: all
+  comments: all
+  endings: all
+  startings: []
+  blanklines: false
+  profile: false
+
+exclude:
+  # from https://github.com/jekyll/jekyll/blob/master/lib/site_template/_config.yml:
+  - .sass-cache/
+  - .jekyll-cache/
+  - gemfiles/
+  - Gemfile
+  - Gemfile.lock
+  - node_modules/
+  - vendor/bundle/
+  - vendor/cache/
+  - vendor/gems/
+  - vendor/ruby/
+  # specific to the theme website:
+  - bin/
+  - lib/
+  - "*.gemspec"
+  - "*.gem"
+  - LICENSE.txt
+  - package.json
+  - package-lock.json
+  - Rakefile
+  - README.md
+  - CODE_OF_CONDUCT.md
+  - docker-compose.yml
+  - Dockerfile
+  # theme test code
+  - fixtures/
