@@ -7,11 +7,11 @@ nav_order: 1
 # DLF Organizers’ Toolkit
 {: .fs-9}
 
-[TODO] And introduction to the Toolkit
+Want to start a new initiative or working group within the Digital Library Federation? The DLF Organizers' Toolkit is here to help!
 {: .fs-6 .fw-300 }
 
 [Mission](#mission){: .btn .btn-primary .fs-5 .mb-4 .mb-md-0 .mr-2 }
-[View it on GitHub][Toolkit repo]{: .btn .fs-5 .mb-4 .mb-md-0 }
+[View it on GitHub][Toolkit Repo]{: .btn .fs-5 .mb-4 .mb-md-0 }
 
 1. TOC
 {:toc}
@@ -33,3 +33,5 @@ We believe that the best problem-solving, critical thinking, technical developme
 The DLF Organizers’ Toolkit is a living document. Community input is welcome and encouraged. It is meant to improve our documentation of evolving community norms, contribute to best practice and institutional memory, and provide tips and resources to those who want to use the DLF to advance the field. This is your Toolkit for starting new initiatives or working groups, facilitating ongoing projects or connecting existing ones, and using the DLF [as a platform](https://www.diglib.org/open-invitations-closing-2016-dlf-forum-remarks/) to lift up anything from small conversations to sweeping movements.
 
 **We thank past and present DLF staff and community organizers for their contributions to this document, and invite more!** Please feel free to [make suggestions](mailto:info@diglib.org).
+
+[Toolkit Repo]: https://github.com/clirdlf/dlf-organizers-toolkit
