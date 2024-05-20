@@ -1,6 +1,7 @@
 title: DLF Organizers' Toolkit
 description: The Digital Library Federation is committed to supporting inclusive, equitable, and highly effective communities of practice.
 theme: just-the-docs
+baseurl: "" # the subpath of your site, e.g. /blog
 repository: clirdlf/dlf-organizers-toolkit # for github-metadata
 
 permalink: pretty
@@ -13,6 +14,9 @@ favicon_ico: "/assets/images/dlf-logo-icon.png"
 aux_links:
   Document Repository: https://github.com/clirdlf/dlf-organizers-toolkit
   DLF: https://www.diglib.org/
+
+# Makes Aux links open in a new tab. Default is false
+aux_links_new_tab: true
 
 color_scheme: dlf
 
