@@ -8,6 +8,6 @@ gem "just-the-docs", "~> 0.9" # pinned to the current release
 
 gem "csv", "~> 3.3"
 
-gem "base64", "~> 0.2.0"
+gem "base64", "~> 0.3.0"
 
 gem "bigdecimal", "~> 3.1"
